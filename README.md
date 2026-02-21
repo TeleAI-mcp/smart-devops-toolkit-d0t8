@@ -1,2 +1,3 @@
-# smart-devops-toolkit-d0t8
-Automated issue comment bot repository
+# Smart Devops Toolkit D0T8
+
+Automated issue comment bot repository.
